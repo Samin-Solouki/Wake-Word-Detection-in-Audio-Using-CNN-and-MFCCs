@@ -1,6 +1,5 @@
 # Wake-Word-Detection-in-Audio-Using-CNN-and-MFCCs
 Custom Wake Word Detection in Audio Using CNN and MFCCs / for the word "Samin"
-Here’s a complete and detailed version of the content you can include in your `README.md` file for your **Wake Word Detection using Deep Learning** project. This version is structured clearly, from project highlights to conclusion, and is ready to be used directly or modified as needed:
 
 ---
 
