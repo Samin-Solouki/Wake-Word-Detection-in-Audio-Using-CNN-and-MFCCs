@@ -1,6 +1,11 @@
 # Wake-Word-Detection-in-Audio-Using-CNN-and-MFCCs
 Custom Wake Word Detection in Audio Using CNN and MFCCs / for the word "Samin"
 
+### **Project Level**:
+ Intermediate to Advanced – involves audio preprocessing, MFCC feature extraction, and deep learning model development for custom wake word detection.
+
+*You may find the report of the project under the name "Wake-Word-Detection-in-Audio-Using-CNN-and-MFCCsi.PDF"*
+
 ---
 
 ##  Project Highlights
